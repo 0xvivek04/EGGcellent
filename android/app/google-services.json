@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "84336652634",
+    "firebase_url": "https://eggcellent-1afdd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eggcellent-1afdd",
+    "storage_bucket": "eggcellent-1afdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84336652634:android:82dd2f45f82bea39cb4363",
+        "android_client_info": {
+          "package_name": "com.omnixautomation.eggcellentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_gNGxHJYxbPf7rH7Gs-_rWMAVNRVYeLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

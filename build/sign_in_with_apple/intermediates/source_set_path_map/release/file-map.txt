@@ -1,0 +1,13 @@
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-window-java-1.0.0-beta04-0 C:\Users\Vivek\.gradle\caches\transforms-3\297b8caba905b407ec163da52ec549bc\transformed\jetified-window-java-1.0.0-beta04\res
+com.aboutyou.dart_packages.sign_in_with_apple-core-1.6.0-1 C:\Users\Vivek\.gradle\caches\transforms-3\48c080545087e18535dda2f49b69c49f\transformed\core-1.6.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-annotation-experimental-1.1.0-2 C:\Users\Vivek\.gradle\caches\transforms-3\613ac54db8a291cdfcd3f19def5594a2\transformed\jetified-annotation-experimental-1.1.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-window-1.0.0-beta04-3 C:\Users\Vivek\.gradle\caches\transforms-3\768f74a9029751ad6680571d32613ab7\transformed\jetified-window-1.0.0-beta04\res
+com.aboutyou.dart_packages.sign_in_with_apple-browser-1.5.0-4 C:\Users\Vivek\.gradle\caches\transforms-3\90cb5094f3578aef5ed83fb33a3b73b7\transformed\browser-1.5.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-main-5 C:\Users\Vivek\AppData\Local\Pub\Cache\hosted\pub.dev\sign_in_with_apple-6.1.0\android\src\main\res
+com.aboutyou.dart_packages.sign_in_with_apple-release-6 C:\Users\Vivek\AppData\Local\Pub\Cache\hosted\pub.dev\sign_in_with_apple-6.1.0\android\src\release\res
+com.aboutyou.dart_packages.sign_in_with_apple-pngs-7 C:\Users\Vivek\Desktop\e_g_gcellent_app\e_g_gcellent_app\build\sign_in_with_apple\generated\res\pngs\release
+com.aboutyou.dart_packages.sign_in_with_apple-resValues-8 C:\Users\Vivek\Desktop\e_g_gcellent_app\e_g_gcellent_app\build\sign_in_with_apple\generated\res\resValues\release
+com.aboutyou.dart_packages.sign_in_with_apple-rs-9 C:\Users\Vivek\Desktop\e_g_gcellent_app\e_g_gcellent_app\build\sign_in_with_apple\generated\res\rs\release
+com.aboutyou.dart_packages.sign_in_with_apple-mergeReleaseResources-10 C:\Users\Vivek\Desktop\e_g_gcellent_app\e_g_gcellent_app\build\sign_in_with_apple\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.aboutyou.dart_packages.sign_in_with_apple-mergeReleaseResources-11 C:\Users\Vivek\Desktop\e_g_gcellent_app\e_g_gcellent_app\build\sign_in_with_apple\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.aboutyou.dart_packages.sign_in_with_apple-merged_res-12 C:\Users\Vivek\Desktop\e_g_gcellent_app\e_g_gcellent_app\build\sign_in_with_apple\intermediates\merged_res\release
