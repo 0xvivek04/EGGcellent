@@ -1,6 +1,6 @@
-# Eggcellent: Poultry Farming Automation
+# EGGcellent: Poultry Farming Automation
 
-Eggcellent is an advanced app designed for automating poultry farming operations. Developed by instrumentation students at Vishwakarma Institute of Technology, this app offers comprehensive real-time monitoring and control for various parameters essential for maintaining optimal poultry farming conditions.
+EGGcellent is an advanced app designed for automating poultry farming operations. Developed by instrumentation students at Vishwakarma Institute of Technology, this app offers comprehensive real-time monitoring and control for various parameters essential for maintaining optimal poultry farming conditions.
 
 ## Key Features
 
@@ -18,13 +18,13 @@ Eggcellent is an advanced app designed for automating poultry farming operations
 
 ## About Us
 
-Eggcellent is a project by the innovative instrumentation students of Vishwakarma Institute of Technology, aimed at revolutionizing the poultry farming industry through automation and smart technology.
+EGGcellent is a project, aimed at revolutionizing the poultry farming industry through automation and smart technology.
 
 ## Getting Started
 
 For more information on setting up and using Eggcellent, please refer to our # Eggcellent: Poultry Farming Automation
 
-Eggcellent is an advanced app designed for automating poultry farming operations. Developed by instrumentation students at Vishwakarma Institute of Technology, this app offers comprehensive real-time monitoring and control for various parameters essential for maintaining optimal poultry farming conditions.
+EGGcellent is an advanced app designed for automating poultry farming operations. Developed by instrumentation students at Vishwakarma Institute of Technology, this app offers comprehensive real-time monitoring and control for various parameters essential for maintaining optimal poultry farming conditions.
 
 ## Key Features
 
